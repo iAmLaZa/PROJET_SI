@@ -1,0 +1,38 @@
+.btn{
+    -fx-background-color:   blue;
+    -fx-background-radius: 30px;
+}
+.btn:hover{
+     -fx-background-color:  #6B9BA4;
+ }
+ .btnacc{
+     -fx-background-color:   blue;
+
+ }
+ .btnacc:hover{
+      -fx-background-color:  #6B9BA4;
+  }
+ .btnmen{
+     -fx-background-color:   white;
+     -fx-background-radius: 30px;
+ }
+ .btnmen:hover{
+ 
+      -fx-background-color: #B4BDE5;
+  }
+
+ .text{
+  -fx-background-radius: 30px;
+
+ }
+ .label{
+ -fx-text-fill: #6B9BA4;
+ -fx-border-radius:30px;
+-fx-border-color:  #6B9BA4;
+
+}
+.anchor{
+
+-fx-border-color:  #6B9BA4;
+}
+
